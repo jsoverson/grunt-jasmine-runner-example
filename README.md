@@ -1,3 +1,8 @@
+# THIS REPOSITORY IS NO LONGER UP TO DATE
+
+Since Grunt 0.4.0, grunt-jasmine-runner has been replaced with [grunt-contrib-jasmine](https://github.com/gruntjs/grunt-contrib-jasmine).
+
+
 grunt-jasmine-runner-example
 ============================
 
